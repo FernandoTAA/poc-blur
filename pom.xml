@@ -16,6 +16,8 @@
 			<groupId>org.opencv</groupId>
 			<artifactId>opencv</artifactId>
 			<version>3.4.0</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/opencv-340.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>

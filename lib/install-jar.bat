@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile=opencv-340.jar -DgroupId=org.opencv -DartifactId=opencv -Dversion=3.4.0 -Dpackaging=jar
